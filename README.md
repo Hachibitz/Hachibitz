@@ -11,13 +11,13 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark" alt="Linguagens mais usadas">
       </a>
+      <h2>Projetos destacados</h2>
+      <a href="https://github.com/Hachibitz/FinSavior">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hachibitz&repo=FinSavior&theme=dark" alt="FinSavior">
+      </a>
     </div>
   </div>
 </div>
-
-## Projetos Destacados
-
-[![FinSavior](https://github-readme-stats.vercel.app/api/pin/?username=Hachibitz&repo=FinSavior&theme=dark)](https://github.com/Hachibitz/FinSavior)
 
 Desenvolvedor Sênior Fullstack | Java | Angular | Outras tecnologias
 
