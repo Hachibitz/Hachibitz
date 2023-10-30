@@ -1,6 +1,14 @@
-# Olá, eu sou Felipe
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contribuições
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Desenvolvedor Sênior Fullstack | Java | Angular | Outras tecnologias
+
+# Olá, eu sou Felipe
 
 ![Sua Foto ou Avatar](https://i.postimg.cc/90Dy9mGk/1659444457744.jpg)
 
@@ -27,18 +35,9 @@ Sou um desenvolvedor sênior fullstack com mais de 4 anos de experiência na ind
 
 ## Contato
 
-```- [Seu Site Pessoal](URL_DO_SEU_SITE)```
 - [LinkedIn](https://www.linkedin.com/in/felipe-almeida-dev/)
 - [GitHub](https://github.com/Hachibitz)
 - Email: hachibitzz@gmail.com
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contribuições
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Agradecimentos
 
