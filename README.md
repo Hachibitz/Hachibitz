@@ -1,16 +1,48 @@
-### Hi there 👋
+# Olá, eu sou Felipe
 
-<!--
-**Hachibitz/Hachibitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Sênior Fullstack | Java | Angular | Outras tecnologias
 
-Here are some ideas to get you started:
+![Sua Foto ou Avatar](https://i.postimg.cc/90Dy9mGk/1659444457744.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Sou um desenvolvedor sênior fullstack com mais de 4 anos de experiência na indústria de desenvolvimento de software. Tenho uma paixão por criar aplicações web robustas e escaláveis utilizando as melhores tecnologias. Amo aprender coisas novas.
+
+- 🌟 Apaixonado por resolver problemas e criar soluções inovadoras.
+- 💼 Trabalho atualmente como Sênior Software Engineer na CWI - Cardif/BNP Paribas.
+- 🎓 Graduado em Ciência e Tecnologia na UFRN - Universidade Federal do Rio Grande do Norte.
+
+## Algumas Habilidades
+
+- **Linguagens de Programação**: Java, JavaScript, TypeScript...
+- **Framework Frontend**: Angular, Vue.js...
+- **Framework Backend**: Spring Boot...
+- **Bancos de Dados**: SQL Server, MongoDB...
+- **Ferramentas e Controle de Versão**: Git, Docker...
+- **Metodologias**: Scrum, Kanban, Lean...
+
+## Projeto Destacado
+
+- [Finsavior](https://github.com/Hachibitz/FinSavior) - FinSavior é uma aplicação de organização financeira desenvolvida com Angular, Spring Boot, Grpc, Protobuf, Kafka, Schema Registry, etc. Ela permite aos usuários registrar suas receitas, despesas e metas financeiras, fornecendo uma visão clara e detalhada de suas finanças pessoais.
+
+## Contato
+
+```- [Seu Site Pessoal](URL_DO_SEU_SITE)```
+- [LinkedIn](https://www.linkedin.com/in/felipe-almeida-dev/)
+- [GitHub](https://github.com/Hachibitz)
+- Email: hachibitzz@gmail.com
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contribuições
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Agradecimentos
+
+Agradeço por visitar o meu perfil! Se você tiver alguma pergunta ou desejar entrar em contato, sinta-se à vontade para me enviar uma mensagem.
+
+[![Badge de Visitantes](https://visitor-badge.glitch.me/badge?page_id=Hachibitz.readme)](https://github.com/Hachibitz)
+
