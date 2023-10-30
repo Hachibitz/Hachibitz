@@ -1,14 +1,23 @@
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 50%;">
+      <h2>Estatísticas do GitHub</h2>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&count_private=true&theme=dark" alt="Estatísticas do GitHub">
+      </a>
+    </div>
+    <div style="flex: 50%;">
+      <h2>Contribuições</h2>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark" alt="Linguagens mais usadas">
+      </a>
+    </div>
+  </div>
+</div>
+
 ## Projetos Destacados
 
 [![FinSavior](https://github-readme-stats.vercel.app/api/pin/?username=Hachibitz&repo=FinSavior&theme=dark)](https://github.com/Hachibitz/FinSavior)
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contribuições
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Desenvolvedor Sênior Fullstack | Java | Angular | Outras tecnologias
 
