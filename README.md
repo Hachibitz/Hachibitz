@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Sou um desenvolvedor sênior fullstack com vasta experiência na indústria de desenvolvimento de software. Tenho uma paixão por criar aplicações web robustas e escaláveis utilizando as melhores tecnologias. Amo aprender coisas novas.
+Sou um engenheiro de software sênior com vasta experiência na indústria de desenvolvimento de software. Tenho uma paixão por criar aplicações web robustas e escaláveis utilizando as melhores tecnologias. Amo aprender coisas novas.
 
 - 🌟 Apaixonado por resolver problemas e criar soluções inovadoras.
 - 💼 Sênior Software Engineer na CWI - Cardif/BNP Paribas.
