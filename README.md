@@ -9,7 +9,7 @@ Sou um engenheiro de software sênior com vasta experiência na indústria de de
 ## Estatísticas
 <div>
   <div>
-  <a href="https://github.com/DouglasTrindade">
+  <a href="https://github.com/Hachibitz">
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hachibitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachibitz&layout=compact&langs_count=7&theme=dark"/>
