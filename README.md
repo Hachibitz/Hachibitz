@@ -5,6 +5,7 @@ Sou um engenheiro de software sênior com vasta experiência na indústria de de
 - 🌟 Apaixonado por resolver problemas e criar soluções inovadoras.
 - 💼 Sênior Software Engineer na CWI - Cardif/BNP Paribas.
 - 🎓 Graduado em Ciência e Tecnologia na UFRN - Universidade Federal do Rio Grande do Norte.
+- 🎓 Pós-Graduação Lato Sensu em andamento em Engenharia de Software.
 
 ## Estatísticas
 <div>
