@@ -7,9 +7,9 @@ Sou um engenheiro de software sênior com vasta experiência na indústria de de
 - 🎓 Graduado em Ciência e Tecnologia na UFRN - Universidade Federal do Rio Grande do Norte.
 - 🎓 Pós-Graduação Lato Sensu em Engenharia de Software.
 
-* 🚀 Creator of FinSavior – Your AI-Powered Financial Companion
-* 📱 Available on Android: [Google Play](https://play.google.com/store/apps/details?id=br.com.finsavior)
-* 🌐 Avilable on Wen: [finsavior.com.br](https://www.finsavior.com.br)
+🚀 Creator of FinSavior – Your AI-Powered Financial Companion  
+📱 Available on Android: [Google Play](https://play.google.com/store/apps/details?id=br.com.finsavior)  
+🌐 Avilable on Wen: [finsavior.com.br](https://www.finsavior.com.br)  
 
 ## Estatísticas
 <div>
