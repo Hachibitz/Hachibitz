@@ -8,7 +8,7 @@ Sou um engenheiro de software sênior com vasta experiência na indústria de de
 - 🎓 Pós-Graduação Lato Sensu em Engenharia de Software.
 
 🚀 Creator of FinSavior – Your AI-Powered Financial Companion
-📱 Available on Android: Google Play (https://play.google.com/store/apps/details?id=br.com.finsavior)
+📱 Available on Android: [Google Play](https://play.google.com/store/apps/details?id=br.com.finsavior)
 🌐 finsavior.com.br
 
 ## Estatísticas
