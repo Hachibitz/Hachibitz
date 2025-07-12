@@ -3,9 +3,13 @@
 Sou um engenheiro de software sênior com vasta experiência na indústria de desenvolvimento de software. Tenho uma paixão por criar aplicações web robustas e escaláveis utilizando as melhores tecnologias. Amo aprender coisas novas.
 
 - 🌟 Apaixonado por resolver problemas e criar soluções inovadoras.
-- 💼 Sênior Software Engineer na CWI - Cardif/BNP Paribas.
+- 💼 Software Engineer no PagBank.
 - 🎓 Graduado em Ciência e Tecnologia na UFRN - Universidade Federal do Rio Grande do Norte.
-- 🎓 Pós-Graduação Lato Sensu em andamento em Engenharia de Software.
+- 🎓 Pós-Graduação Lato Sensu em Engenharia de Software.
+
+🚀 Creator of FinSavior – Your AI-Powered Financial Companion
+📱 Available on Android: Google Play (https://play.google.com/store/apps/details?id=br.com.finsavior)
+🌐 finsavior.com.br
 
 ## Estatísticas
 <div>
